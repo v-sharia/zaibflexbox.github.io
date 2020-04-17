@@ -52,7 +52,7 @@ ul li a:hover {
 .section-hero {
   color: #fff;
   display: flex;
-  background: url("/img/macbook-pro-iphone-cup-desk-7974.jpg") no-repeat center;
+  background: url("./img/macbook-pro-iphone-cup-desk-7974.jpg") no-repeat center;
   background-size: cover;
   min-height: 90vh;
   justify-content: center;
